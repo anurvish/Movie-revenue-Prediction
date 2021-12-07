@@ -15,3 +15,13 @@ https://developers.themoviedb.org/3/genres/get-movie-list
 get movie collection api:
 https://developers.themoviedb.org/3/collections/get-collection-details
 
+Order of execution:
+getInitialData.ipynb
+getmoviedetails.ipynb
+Process_data.ipynb
+modelDummRegressor.ipynb
+modelLinear.ipynb
+modelRidge.ipynb
+modelLasso.ipynb
+
+
